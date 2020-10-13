@@ -3,7 +3,7 @@ post_generator.py
 Copyright (c) 2019 Copyright Holder All Rights Reserved.
 MIT License read the License in base file for more information.
 Contact: roshanmis@gmail.com
-This script creates posts for your Jekyll blog hosted by Github page.
+This script creates posts for Jekyll blog hosted by Github page. Uses the "Tag Generator" attached in same folder. Make sure to copy both files or correct accordingly. 
 No plugins required.
 '''
 import tag_generator
